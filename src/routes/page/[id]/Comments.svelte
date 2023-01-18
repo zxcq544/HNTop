@@ -11,7 +11,6 @@
 		}
 	});
 	function show_kids(comment_id_to_show_kids) {
-		// console.log(comments[comment_id_to_show_kids].show_kids);
 		comments[comment_id_to_show_kids].show_kids = !comments[comment_id_to_show_kids].show_kids;
 	}
 </script>
